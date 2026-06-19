@@ -1,7 +1,6 @@
 from enum import Enum
 
-class medio(Enum):
+class Medio(Enum):
     DISCO = "DISCO"
-    CASATE = "CASATE"
+    CASETE = "CASETE"
     CD = "CD"
-    
